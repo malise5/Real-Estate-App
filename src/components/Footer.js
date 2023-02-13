@@ -15,7 +15,7 @@ const Footer = () => {
           <i className="fab fa-instagram fa-2x"></i>
         </a>
         <SocialIcon url="https://github.com/malise5" />
-        <SocialIcon url="https://www.linkedin.com/in/halkano-malise" />
+        <SocialIcon url="linkedin.com/in/halkano-malise-4262bab6" />
         <SocialIcon url="https://www.instagram.com/kude_astro/" />
       </div>
       <p>Copyright © 2023 Halkano Malise</p>
